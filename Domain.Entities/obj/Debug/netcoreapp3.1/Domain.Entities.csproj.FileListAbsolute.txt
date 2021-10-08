@@ -1,9 +1,0 @@
-E:\Works\DesignPattern\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.deps.json
-E:\Works\DesignPattern\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.dll
-E:\Works\DesignPattern\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
-E:\Works\DesignPattern\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csproj.AssemblyReference.cache
-E:\Works\DesignPattern\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfoInputs.cache
-E:\Works\DesignPattern\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfo.cs
-E:\Works\DesignPattern\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csproj.CoreCompileInputs.cache
-E:\Works\DesignPattern\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.dll
-E:\Works\DesignPattern\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.pdb
