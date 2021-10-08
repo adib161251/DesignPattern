@@ -1,0 +1,9 @@
+E:\Works\DesignPattern\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.deps.json
+E:\Works\DesignPattern\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+E:\Works\DesignPattern\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+E:\Works\DesignPattern\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.AssemblyReference.cache
+E:\Works\DesignPattern\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfoInputs.cache
+E:\Works\DesignPattern\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfo.cs
+E:\Works\DesignPattern\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CoreCompileInputs.cache
+E:\Works\DesignPattern\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.dll
+E:\Works\DesignPattern\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.pdb

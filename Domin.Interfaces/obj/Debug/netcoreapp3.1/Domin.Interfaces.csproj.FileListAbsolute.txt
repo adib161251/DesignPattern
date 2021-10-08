@@ -1,0 +1,8 @@
+E:\Works\DesignPattern\Domin.Interfaces\bin\Debug\netcoreapp3.1\Domin.Interfaces.deps.json
+E:\Works\DesignPattern\Domin.Interfaces\bin\Debug\netcoreapp3.1\Domin.Interfaces.dll
+E:\Works\DesignPattern\Domin.Interfaces\bin\Debug\netcoreapp3.1\Domin.Interfaces.pdb
+E:\Works\DesignPattern\Domin.Interfaces\obj\Debug\netcoreapp3.1\Domin.Interfaces.AssemblyInfoInputs.cache
+E:\Works\DesignPattern\Domin.Interfaces\obj\Debug\netcoreapp3.1\Domin.Interfaces.AssemblyInfo.cs
+E:\Works\DesignPattern\Domin.Interfaces\obj\Debug\netcoreapp3.1\Domin.Interfaces.csproj.CoreCompileInputs.cache
+E:\Works\DesignPattern\Domin.Interfaces\obj\Debug\netcoreapp3.1\Domin.Interfaces.dll
+E:\Works\DesignPattern\Domin.Interfaces\obj\Debug\netcoreapp3.1\Domin.Interfaces.pdb
