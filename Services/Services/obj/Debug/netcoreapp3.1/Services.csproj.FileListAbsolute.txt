@@ -1,9 +1,0 @@
-E:\Works\DesignPattern\Services\Services\bin\Debug\netcoreapp3.1\Services.deps.json
-E:\Works\DesignPattern\Services\Services\bin\Debug\netcoreapp3.1\Services.dll
-E:\Works\DesignPattern\Services\Services\bin\Debug\netcoreapp3.1\Services.pdb
-E:\Works\DesignPattern\Services\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
-E:\Works\DesignPattern\Services\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
-E:\Works\DesignPattern\Services\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
-E:\Works\DesignPattern\Services\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
-E:\Works\DesignPattern\Services\Services\obj\Debug\netcoreapp3.1\Services.dll
-E:\Works\DesignPattern\Services\Services\obj\Debug\netcoreapp3.1\Services.pdb
