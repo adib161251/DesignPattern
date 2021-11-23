@@ -761,23 +761,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tabeeb\\.nuget\\packages\\": {},
+    "C:\\Users\\IT_Porosh\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Works\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+      "projectUniqueName": "D:\\Official Project\\BackUp\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
       "projectName": "DesignPattern",
-      "projectPath": "E:\\Works\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
-      "packagesPath": "C:\\Users\\Tabeeb\\.nuget\\packages\\",
-      "outputPath": "E:\\Works\\DesignPattern\\DesignPattern\\obj\\",
+      "projectPath": "D:\\Official Project\\BackUp\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+      "packagesPath": "C:\\Users\\IT_Porosh\\.nuget\\packages\\",
+      "outputPath": "D:\\Official Project\\BackUp\\DesignPattern\\DesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tabeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IT_Porosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -830,12 +830,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.18, 3.1.18]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -844,7 +838,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

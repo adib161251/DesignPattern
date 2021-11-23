@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Works\\DesignPattern\\Domin.Interfaces\\Domin.Interfaces.csproj": {}
+    "D:\\Official Project\\BackUp\\DesignPattern\\Domin.Interfaces\\Domin.Interfaces.csproj": {}
   },
   "projects": {
-    "E:\\Works\\DesignPattern\\Domin.Interfaces\\Domin.Interfaces.csproj": {
+    "D:\\Official Project\\BackUp\\DesignPattern\\Domin.Interfaces\\Domin.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Works\\DesignPattern\\Domin.Interfaces\\Domin.Interfaces.csproj",
+        "projectUniqueName": "D:\\Official Project\\BackUp\\DesignPattern\\Domin.Interfaces\\Domin.Interfaces.csproj",
         "projectName": "Domin.Interfaces",
-        "projectPath": "E:\\Works\\DesignPattern\\Domin.Interfaces\\Domin.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\Tabeeb\\.nuget\\packages\\",
-        "outputPath": "E:\\Works\\DesignPattern\\Domin.Interfaces\\obj\\",
+        "projectPath": "D:\\Official Project\\BackUp\\DesignPattern\\Domin.Interfaces\\Domin.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\IT_Porosh\\.nuget\\packages\\",
+        "outputPath": "D:\\Official Project\\BackUp\\DesignPattern\\Domin.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tabeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IT_Porosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

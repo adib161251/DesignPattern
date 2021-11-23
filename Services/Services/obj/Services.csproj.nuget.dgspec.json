@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Works\\DesignPattern\\Services\\Services\\Services.csproj": {}
+    "D:\\Official Project\\BackUp\\DesignPattern\\Services\\Services\\Services.csproj": {}
   },
   "projects": {
-    "E:\\Works\\DesignPattern\\Services\\Services\\Services.csproj": {
+    "D:\\Official Project\\BackUp\\DesignPattern\\Services\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Works\\DesignPattern\\Services\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\Official Project\\BackUp\\DesignPattern\\Services\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "E:\\Works\\DesignPattern\\Services\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\Tabeeb\\.nuget\\packages\\",
-        "outputPath": "E:\\Works\\DesignPattern\\Services\\Services\\obj\\",
+        "projectPath": "D:\\Official Project\\BackUp\\DesignPattern\\Services\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\IT_Porosh\\.nuget\\packages\\",
+        "outputPath": "D:\\Official Project\\BackUp\\DesignPattern\\Services\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tabeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IT_Porosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
