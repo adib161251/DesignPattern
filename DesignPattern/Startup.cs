@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Services;
+using Services.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,6 +29,8 @@ namespace DesignPattern
         {
             services.AddControllers();
             services.AddSwaggerGen();
+
+            services.AddTransient<IMyFirstService, MyFirstService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

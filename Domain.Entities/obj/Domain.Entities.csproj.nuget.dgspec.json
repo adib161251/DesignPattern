@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Official Project\\BackUp\\DesignPattern\\Domain.Entities\\Domain.Entities.csproj": {}
+    "E:\\Works\\DesignPattern\\Domain.Entities\\Domain.Entities.csproj": {}
   },
   "projects": {
-    "D:\\Official Project\\BackUp\\DesignPattern\\Domain.Entities\\Domain.Entities.csproj": {
+    "E:\\Works\\DesignPattern\\Domain.Entities\\Domain.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Official Project\\BackUp\\DesignPattern\\Domain.Entities\\Domain.Entities.csproj",
+        "projectUniqueName": "E:\\Works\\DesignPattern\\Domain.Entities\\Domain.Entities.csproj",
         "projectName": "Domain.Entities",
-        "projectPath": "D:\\Official Project\\BackUp\\DesignPattern\\Domain.Entities\\Domain.Entities.csproj",
-        "packagesPath": "C:\\Users\\IT_Porosh\\.nuget\\packages\\",
-        "outputPath": "D:\\Official Project\\BackUp\\DesignPattern\\Domain.Entities\\obj\\",
+        "projectPath": "E:\\Works\\DesignPattern\\Domain.Entities\\Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\Tabeeb\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\DesignPattern\\Domain.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\IT_Porosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tabeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

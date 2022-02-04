@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Official Project\\BackUp\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {}
+    "E:\\Works\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {}
   },
   "projects": {
-    "D:\\Official Project\\BackUp\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {
+    "E:\\Works\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Official Project\\BackUp\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+        "projectUniqueName": "E:\\Works\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
         "projectName": "DesignPattern",
-        "projectPath": "D:\\Official Project\\BackUp\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
-        "packagesPath": "C:\\Users\\IT_Porosh\\.nuget\\packages\\",
-        "outputPath": "D:\\Official Project\\BackUp\\DesignPattern\\DesignPattern\\obj\\",
+        "projectPath": "E:\\Works\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+        "packagesPath": "C:\\Users\\Tabeeb\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\DesignPattern\\DesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\IT_Porosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tabeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,7 +30,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Works\\DesignPattern\\Services.Interface\\Services.Interface.csproj": {
+                "projectPath": "E:\\Works\\DesignPattern\\Services.Interface\\Services.Interface.csproj"
+              },
+              "E:\\Works\\DesignPattern\\Services\\Services\\Services.csproj": {
+                "projectPath": "E:\\Works\\DesignPattern\\Services\\Services\\Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -43,6 +50,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AyaatLibrary.ResponseModel": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Microsoft.AspNetCore.StaticFiles": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -70,6 +81,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -78,7 +95,125 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Works\\DesignPattern\\Services.Interface\\Services.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\DesignPattern\\Services.Interface\\Services.Interface.csproj",
+        "projectName": "Services.Interface",
+        "projectPath": "E:\\Works\\DesignPattern\\Services.Interface\\Services.Interface.csproj",
+        "packagesPath": "C:\\Users\\Tabeeb\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\DesignPattern\\Services.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tabeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Works\\DesignPattern\\Services\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\DesignPattern\\Services\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "E:\\Works\\DesignPattern\\Services\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Tabeeb\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\DesignPattern\\Services\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tabeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Works\\DesignPattern\\Services.Interface\\Services.Interface.csproj": {
+                "projectPath": "E:\\Works\\DesignPattern\\Services.Interface\\Services.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
